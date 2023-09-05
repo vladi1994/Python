@@ -1,6 +1,6 @@
 import openai
 
-openai.api_key = "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"
+openai.api_key = ""
 system_rol =''' hace de cuneta que sos un analizador de sentimiento.
                 yo te paso sentimientos y vos analizas lo analizas, desde los mensajes y me
                 das una respuesta con al meno 1 caracter y como maximo 4.
